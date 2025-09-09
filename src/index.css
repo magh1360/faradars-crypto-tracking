@@ -6,8 +6,14 @@
   box-sizing:border-box;
 }
 body{
-  background-color:blueviolet ;
+  background-color:rgb(231, 226, 236) ;
 }
 .wrapper{
-  background-color:blue ;
+  background-color:rgb(195, 195, 238) ;
+
+
+/* navbar height = 56px */
+/* footer height = 40px*/
+
+  min-height: calc(100vh - 56px - 40px);
 }
