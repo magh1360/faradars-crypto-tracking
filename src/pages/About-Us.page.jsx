@@ -3,7 +3,7 @@ const FAQPage = () =>{
 
     return(
         <div>
-          <h2>About-Us</h2>
+          <h5>About-Us</h5>
           <h2>About-Us</h2>
           <h2>About-Us</h2>
           <h2>About-Us</h2>
